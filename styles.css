@@ -12,3 +12,32 @@ img {
   height: 300px;
 
 }
+h3,h1{
+  color: #7d5a50;
+  font-size: 40px;
+  font-family: monospace;
+}
+li{
+  font-size: 20px;
+  color: #d8b384;
+  font-family: monospace;
+}
+a:link{
+  color: #5e454b;
+  text-decoration: none;
+}
+a:visited{
+  color: #5e454b;
+  text-decoration: none;
+}
+a:hover{
+  color: #d99879;
+  text-decoration: none;
+}
+a:active{
+  color: #5e454b;
+  text-decoration: none;
+}
+p{
+  color: #b4846c;
+}
